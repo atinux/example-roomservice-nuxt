@@ -1,4 +1,4 @@
-# Room Service with Nextjs
+# Room Service with NuxtJS
 
 This is an example of Room Service with [NuxtJS](https://nuxtjs.org). Requires [Node 8](https://nodejs.org/en/download/) or above. 
 

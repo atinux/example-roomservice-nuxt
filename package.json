@@ -1,0 +1,20 @@
+{
+  "name": "example-roomservice-nuxt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt-start"
+  },
+  "dependencies": {
+    "@roomservice/browser": "^0.3.0",
+    "@roomservice/node": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nuxt-start": "^2.11.0"
+  },
+  "devDependencies": {
+    "nuxt": "^2.11.0"
+  }
+}
