@@ -11,7 +11,7 @@
     "@roomservice/browser": "^0.3.0",
     "@roomservice/node": "^0.0.3",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nuxt-start": "^2.11.0"
   },
   "devDependencies": {
